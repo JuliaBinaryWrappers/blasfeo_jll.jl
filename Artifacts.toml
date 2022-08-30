@@ -1,0 +1,127 @@
+[[blasfeo]]
+arch = "aarch64"
+git-tree-sha1 = "7cea1938a6c32b00782dced6c5c741e3d5cabea4"
+os = "macos"
+
+    [[blasfeo.download]]
+    sha256 = "9551fcc181065e22d1074312ddc5f26d486a187b20daec3634689d2c62d3d3b5"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.aarch64-apple-darwin.tar.gz"
+[[blasfeo]]
+arch = "aarch64"
+git-tree-sha1 = "361b3cc8a1f8ae40201f7cdfcd874c2c8a51bb05"
+libc = "glibc"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "7e5d768ab03f152a7978d8a55d401e88513f45ea415259cba66bfa471363d8bc"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.aarch64-linux-gnu.tar.gz"
+[[blasfeo]]
+arch = "aarch64"
+git-tree-sha1 = "37a085c8cf4048f3db99abda1601fc0193ba6559"
+libc = "musl"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "7db3f16b75ca287be1c394aa9eebc0594ab49d385b69363eaa3016b508df131b"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.aarch64-linux-musl.tar.gz"
+[[blasfeo]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0c491a49995923e4fb85117693258112f714e219"
+libc = "glibc"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "e0e71b74fda64a7e6bddd596dd780108182225a7baa57d160c9f7ce12ddb9edd"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.armv6l-linux-gnueabihf.tar.gz"
+[[blasfeo]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0f4fa098e6b3b3a4644152d9f3a710e55739c63e"
+libc = "musl"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "8b264fe2fe0931619b6b6c6caca3cc02e31fa4f32308ce0251b143aaff0c86f0"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.armv6l-linux-musleabihf.tar.gz"
+[[blasfeo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "09b7bc08f5e2226aceb1286370b09c33bc897746"
+libc = "glibc"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "bdc7e18b79768b715eb9bc04eda134e5d8767440520072c62d77f026679d19fd"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.armv7l-linux-gnueabihf.tar.gz"
+[[blasfeo]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5e6a6d3a902ee24fa37c4376490098a14a8600f4"
+libc = "musl"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "d38bc7665d9ef412ce35aa40ab871f4ab38f46b267d2310fa0ac4909f293badd"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.armv7l-linux-musleabihf.tar.gz"
+[[blasfeo]]
+arch = "i686"
+git-tree-sha1 = "a903a6148a1a36689cc1f795e6e68dc7636add8b"
+libc = "glibc"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "5f064acd738e98df1ec675a1740627ee10eb5c362e52fe1ea3153799a0059fff"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.i686-linux-gnu.tar.gz"
+[[blasfeo]]
+arch = "i686"
+git-tree-sha1 = "c776960002f93477aa577dbecbc5b18f9d0923f9"
+libc = "musl"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "a1d092e8c50c9b651b4ab20cdb8aa475465d7fedbf4ac612f4bb12eff70afb92"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.i686-linux-musl.tar.gz"
+[[blasfeo]]
+arch = "powerpc64le"
+git-tree-sha1 = "de479b1124f661d15c95634a01d5faf1173780e1"
+libc = "glibc"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "28a318b0bb59c875b9bd5489c930f7bd2d9cc8d6f05e21fd0d8b14fb02032d17"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.powerpc64le-linux-gnu.tar.gz"
+[[blasfeo]]
+arch = "x86_64"
+git-tree-sha1 = "ea4a23cdbab870aca27390718b0c9c701baf99a3"
+os = "macos"
+
+    [[blasfeo.download]]
+    sha256 = "ca570c63e07350b18ce8813fdce5e558de0a2e9fa14c8a808b71bd99085dbcd2"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.x86_64-apple-darwin.tar.gz"
+[[blasfeo]]
+arch = "x86_64"
+git-tree-sha1 = "18ff773cf6623051aed3a5fbe818d7479530ba62"
+libc = "glibc"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "52eb165a54011411ca427b450f75cd4671805298ba9853474f5696d5589afd77"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.x86_64-linux-gnu.tar.gz"
+[[blasfeo]]
+arch = "x86_64"
+git-tree-sha1 = "ca64837474fd8e9a1ef838140fee49cc1cbd1c34"
+libc = "musl"
+os = "linux"
+
+    [[blasfeo.download]]
+    sha256 = "fb764dc34f3596c84e5d1ea8db53821f84150c728cb79f761305a35c153384a7"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.x86_64-linux-musl.tar.gz"
+[[blasfeo]]
+arch = "x86_64"
+git-tree-sha1 = "1cdcc1a5f01a4d0fb31aa87081c894f6797020ee"
+os = "freebsd"
+
+    [[blasfeo.download]]
+    sha256 = "d640676d945a2aa4cd738709a410dc3a99765fc08251aa1173f59eb8a2c841b4"
+    url = "https://github.com/JuliaBinaryWrappers/blasfeo_jll.jl/releases/download/blasfeo-v0.1.3+0/blasfeo.v0.1.3.x86_64-unknown-freebsd.tar.gz"
